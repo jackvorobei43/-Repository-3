@@ -1,0 +1,14 @@
+D:\Женя\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.exe
+D:\Женя\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.deps.json
+D:\Женя\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.runtimeconfig.json
+D:\Женя\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.runtimeconfig.dev.json
+D:\Женя\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.dll
+D:\Женя\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.pdb
+D:\Женя\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.csproj.AssemblyReference.cache
+D:\Женя\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Женя\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.AssemblyInfoInputs.cache
+D:\Женя\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.AssemblyInfo.cs
+D:\Женя\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.csproj.CoreCompileInputs.cache
+D:\Женя\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.dll
+D:\Женя\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.pdb
+D:\Женя\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.genruntimeconfig.cache
